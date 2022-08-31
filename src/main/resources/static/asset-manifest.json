@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0b016cc3.css",
+    "main.js": "/static/js/main.7029386c.js",
+    "static/js/787.2843ca88.chunk.js": "/static/js/787.2843ca88.chunk.js",
+    "static/media/here-comes-the-money-entrance-theme.mp3": "/static/media/here-comes-the-money-entrance-theme.219444473d4764a90349.mp3",
+    "static/media/tickets-icon.svg": "/static/media/tickets-icon.1c89135d1ea626eac5077a5acb5d471d.svg",
+    "index.html": "/index.html",
+    "main.0b016cc3.css.map": "/static/css/main.0b016cc3.css.map",
+    "main.7029386c.js.map": "/static/js/main.7029386c.js.map",
+    "787.2843ca88.chunk.js.map": "/static/js/787.2843ca88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b016cc3.css",
+    "static/js/main.7029386c.js"
+  ]
+}
