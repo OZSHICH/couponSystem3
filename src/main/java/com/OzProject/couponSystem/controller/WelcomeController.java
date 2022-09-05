@@ -13,7 +13,7 @@ import java.util.*;
 @RestController
 @RequestMapping("api/welcome")
 @RequiredArgsConstructor
-//@CrossOrigin(origins = "*")
+@CrossOrigin(origins = "*")
 public class WelcomeController {
 
     private final LoginManager loginManager;

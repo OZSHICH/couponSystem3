@@ -15,7 +15,7 @@ import java.util.*;
 @RestController
 @RequestMapping("api/admin")
 @RequiredArgsConstructor
-//@CrossOrigin(origins = "*", allowedHeaders = "*")
+@CrossOrigin(origins = "*", allowedHeaders = "*")
 public class AdminController {
 
     private final AdminService adminService;

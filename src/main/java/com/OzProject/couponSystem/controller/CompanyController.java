@@ -13,7 +13,7 @@ import java.util.*;
 @RestController
 @RequestMapping("api/companies")
 @RequiredArgsConstructor
-//@CrossOrigin(origins = "*", allowedHeaders = "*")
+@CrossOrigin(origins = "*", allowedHeaders = "*")
 public class CompanyController {
 
 
