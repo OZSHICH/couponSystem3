@@ -1,4 +1,4 @@
-package com.OzProject.couponSystem.clrVCommandLineRunner;
+package com.OzProject.couponSystem.security.clrVCommandLineRunner;
 
 import com.OzProject.couponSystem.beans.*;
 import com.OzProject.couponSystem.repository.*;
